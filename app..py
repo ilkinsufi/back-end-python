@@ -6,3 +6,19 @@
 # name = "Ilkin"
 # print("Hello " + name)
 # print("Hello" + " " + name)
+# a = None
+# if(a):
+#     print("Hello")
+# else:
+#     print("Bye")
+# name = "ilkin"
+# print(name.upper()[0])
+# print(abs(-10))
+# print(abs(10))
+# print(any([False, None, False]))
+# print(min([1, 2, 3, 4, 5, 6, 7, 8, 9, -10]))
+# print(max([1, 2, 3, 4, 5, 6, 7, 8, 9, -10]))
+# print(round(10.1, 999, ))
+from math import *
+
+print(bin(1))
