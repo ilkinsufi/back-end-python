@@ -30,6 +30,27 @@
 # print(cumle.replace(soz,soz2))
 
 
+## Lists
 
+# import random
+# countries = ["Turkey", "USA", "Germany"]
+# print(random.choice(countries) + " is the fucking best")
+# countries = ("Turkey", "USA", "Germany")
+# print(countries[0])
+# print(countries[1])
+# print(countries[2])
+# print(countries[-1])
+# print(countries[-2])
+# print(countries[-3])
 
+## Tuples
 
+# three_numbers = (1, 2, 3)
+# print(three_numbers[0] + three_numbers[1] + three_numbers[2])
+
+## Functions
+
+# def sum(a, b):
+#     return a + b
+
+# print(sum(1, 2))
